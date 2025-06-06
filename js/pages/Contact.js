@@ -92,7 +92,7 @@ function Contact() {
           <h3 className="text-xl font-semibold mb-4">Ubicación</h3>
           <div className="bg-gray-200 dark:bg-gray-700 h-64 flex items-center justify-center rounded">
             <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215573291234!2d-73.9878449241646!3d40.74844097138939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1683037463621!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1148.7779518754571!2d-76.97579355152996!3d-12.085307781637768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c7ee4efb8e21%3A0x2509617adc638a91!2sJockey%20Plaza.!5e0!3m2!1ses-419!2spe!4v1749243179365!5m2!1ses-419!2spe" 
                   width="100%" 
                   height="400" 
                   style={{border:0}} 
