@@ -93,8 +93,8 @@ function Contact() {
           <div className="bg-gray-200 dark:bg-gray-700 h-64 flex items-center justify-center rounded">
             <iframe 
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1148.7779518754571!2d-76.97579355152996!3d-12.085307781637768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c7ee4efb8e21%3A0x2509617adc638a91!2sJockey%20Plaza.!5e0!3m2!1ses-419!2spe!4v1749243179365!5m2!1ses-419!2spe" 
-                  width="100%" 
-                  height="400" 
+                  width="600" 
+                height="450"
                   style={{border:0}} 
                   allowFullScreen 
                   loading="lazy" 
